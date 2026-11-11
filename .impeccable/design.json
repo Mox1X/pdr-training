@@ -1,0 +1,9 @@
+{
+  "name": "ПДР Практика",
+  "tokens": {
+    "color": { "canvas": "#f5f5ef", "ink": "#27352b", "muted": "#626c61", "primary": "#294b36", "line": "#daddd1", "accent": "#d9edb4" },
+    "fontFamily": "Manrope Variable",
+    "radius": { "control": "8px", "panel": "14px" },
+    "layout": { "shellMax": "1240px", "mobileBreakpoint": "680px" }
+  }
+}
