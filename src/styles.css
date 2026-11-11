@@ -220,3 +220,13 @@ input:focus-visible { outline: 3px solid #557b31; outline-offset: 3px; }
   .stats-table > div { font-size: 12px; }
   .confusion-pair { flex-direction: column; align-items: start; gap: 12px; }
 }
+.reverse-prompt { font-size: 24px; line-height: 1.5; text-align: center; }
+.image-options { grid-template-columns: 1fr 1fr; }
+.image-options .answer-option { flex-wrap: wrap; min-height: 170px; align-items: start; }
+.image-options .sign-image { width: 100%; height: 100px; }
+.image-options .option-status { margin-top: 10px; }
+.image-options .option-copy { min-width: 60%; }
+.recall-prompt p { font-size: 14px; line-height: 1.8; margin: 20px 0; }
+@media(max-width:680px) { .image-options .answer-option { padding: 10px; } .image-options .sign-image { height: 85px; } .reverse-prompt { font-size: 20px; } }
+.image-recovery { padding: 16px; margin-bottom: 16px; background: #f7e9e0; color: #874625; border-radius: 8px; font-size: 13px; line-height: 1.8; }
+.result-notice { font-size: 13px; line-height: 1.8; color: var(--muted); }

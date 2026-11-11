@@ -29,3 +29,6 @@ Use reduced motion preference; animate only progress fill for orientation.
 
 ## Practice controls and statistics
 Use native radio buttons for modes and checkboxes for categories, with forest-green accents and visible focus. Exam selections use a neutral green selection state without correctness hints. Statistics use flat rows, sign thumbnails and explicit counts. Storage errors appear as readable notices. Destructive reset uses an inline confirmation with a cancel action.
+
+## Learning formats
+Mode and question format are independent native radio groups. Reverse questions use four image buttons in two columns, with neutral letter alternatives before grading. Recall hides choices until an explicit action, then focuses the first choice. Daily review shows an empty state and next date when no reviews are due. Rule details use an inline native disclosure.

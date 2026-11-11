@@ -14,6 +14,90 @@
     "sha256": "5f0adbd4355f982771616e3c28b4a3eec18c83079d1c0ea5f1a87f4a01411213"
   },
   {
+    "number": "1.3.1",
+    "file": "1.3.1.png",
+    "original": "media/image3.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1c6274b3db4b2ba0988c8a7b41f945af14a90c5fb87255e0bcbd1f250e98b4a6"
+  },
+  {
+    "number": "1.3.2",
+    "file": "1.3.2.png",
+    "original": "media/image4.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "fbcc5051fe6ef2a7ad2fff798789d886eb97f10c1f7e1d68901d39687e263916"
+  },
+  {
+    "number": "1.4.1",
+    "file": "1.4.1.png",
+    "original": "media/image5.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4d054e6e7cf55015a357dfee220959a811875277e526e73ef5c03b8cca7c9ea4"
+  },
+  {
+    "number": "1.4.2",
+    "file": "1.4.2.png",
+    "original": "media/image6.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b253a54cbb9a9696a0591be0f512898e506b0aa47a73ce525aab323fd8022965"
+  },
+  {
+    "number": "1.4.3",
+    "file": "1.4.3.png",
+    "original": "media/image7.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8496d9d531baf7c83bbd74bad0b71300d58cb4addd4c04b59de63d0af452ce9e"
+  },
+  {
+    "number": "1.4.4",
+    "file": "1.4.4.png",
+    "original": "media/image8.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "efd9027fd1cd1cb8cf2c8ebadf9c0fb5c0e0a1b4e87a94d36915e47f532790a6"
+  },
+  {
+    "number": "1.4.5",
+    "file": "1.4.5.png",
+    "original": "media/image9.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "adae825cdb2303c125e05880265e10301068a9bc312707018fa6b8b0fc0a4315"
+  },
+  {
+    "number": "1.4.6",
+    "file": "1.4.6.png",
+    "original": "media/image10.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "01af503de93df8fc68b5035301ad14c539a00f45daad39a1c9c6b76e20287273"
+  },
+  {
+    "number": "1.4.7",
+    "file": "1.4.7.png",
+    "original": "media/image11.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "fee320340ab6eb112e21d9f21142e57b1023bd7625a6e021fc2f6538e291c65f"
+  },
+  {
+    "number": "1.5.1",
+    "file": "1.5.1.png",
+    "original": "media/image12.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "af60b3543cea89c7e627339ae18f487a756834f4faa48f4e3a8a738d466f3b37"
+  },
+  {
+    "number": "1.5.2",
+    "file": "1.5.2.png",
+    "original": "media/image13.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "626634341022e4df57fecaeca7eb3aca1401bdf786e7e15fe377f7e5ad5cfbe7"
+  },
+  {
+    "number": "1.5.3",
+    "file": "1.5.3.png",
+    "original": "media/image14.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "088cc7efe3b940be3317a676f77288ec73b115afb1b9588105271fab026e6c15"
+  },
+  {
     "number": "1.6",
     "file": "1.6.png",
     "original": "media/image15.png",
@@ -28,6 +112,41 @@
     "sha256": "4db52190022689f702880630055f7964cf11ea7cb108342869d837577fe34d81"
   },
   {
+    "number": "1.8",
+    "file": "1.8.png",
+    "original": "media/image17.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ea238cd06356678090f8300a7b574b6a49d191b8ef45f3825d58f901e4018b95"
+  },
+  {
+    "number": "1.9",
+    "file": "1.9.png",
+    "original": "media/image18.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "44e2efee6fc2a361698e98e51d3b4fea226284b2efb88911a390e3287d0a97f9"
+  },
+  {
+    "number": "1.10",
+    "file": "1.10.png",
+    "original": "media/image19.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "abb0f015fddff5edb0dd7514a2a59307e159cbc63137241e0fe839f0cc63839e"
+  },
+  {
+    "number": "1.11",
+    "file": "1.11.png",
+    "original": "media/image20.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "188b3f64181c3773ce1e87a616bb4c274e5cf5a0af1ef92a1c5b0ffaba4f473e"
+  },
+  {
+    "number": "1.12",
+    "file": "1.12.png",
+    "original": "media/image21.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b568ca4a634c89a632ede07fdcd6452a938bd88b42afbff7338586a9e0ec3e0a"
+  },
+  {
     "number": "1.13",
     "file": "1.13.png",
     "original": "media/image22.png",
@@ -35,11 +154,256 @@
     "sha256": "2f3ea5a4bac87983851d40747a149107f496623815097c21bca5279d48c95fb0"
   },
   {
+    "number": "1.14",
+    "file": "1.14.png",
+    "original": "media/image23.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dad81ea4401ec4c437552bf39e7169f4e9d07186a9a5105ce432762409b8cd12"
+  },
+  {
+    "number": "1.15",
+    "file": "1.15.png",
+    "original": "media/image24.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "db4763ba4f697755277f3b721faccb98552444aadc60cffedf90723005e62c77"
+  },
+  {
+    "number": "1.16",
+    "file": "1.16.png",
+    "original": "media/image25.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2d24c091e0c5f063059077fdfab5a9adb2bd55803dfd7264c85b634d1431b426"
+  },
+  {
+    "number": "1.17",
+    "file": "1.17.png",
+    "original": "media/image26.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f96b92669c389aee78377c07f0800943329418638feb127375d20ca80abd68f6"
+  },
+  {
+    "number": "1.18",
+    "file": "1.18.png",
+    "original": "media/image27.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "630651c9d6f25bfb60a035f1a6049bcd8b891c5bc9f075932189dd00db218a12"
+  },
+  {
+    "number": "1.19",
+    "file": "1.19.png",
+    "original": "media/image28.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "44bd95672e444719342c419ec8a23a1fb2e14cb7a2c85c85c83f89818600e1e3"
+  },
+  {
+    "number": "1.20",
+    "file": "1.20.png",
+    "original": "media/image29.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "87646ec33899c85c6953b1078ca671a081b813f614aec13f0bbf322ae3a18b79"
+  },
+  {
+    "number": "1.21",
+    "file": "1.21.png",
+    "original": "media/image30.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ef3323b79c5cc4e77c46d47795984ec55bbc181903f02e9156a49ffdb645eb50"
+  },
+  {
+    "number": "1.22",
+    "file": "1.22.png",
+    "original": "media/image31.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a4a076b3231cb552a472b9755dd7b641efb60f3847fb3df1d424541b804a4841"
+  },
+  {
+    "number": "1.23.1",
+    "file": "1.23.1.png",
+    "original": "media/image32.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "84e138a90247d2ad9d2d9c1e01d56f105fdefd419bbf89cb6e19896add0a259d"
+  },
+  {
+    "number": "1.23.2",
+    "file": "1.23.2.png",
+    "original": "media/image33.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7fbb9054cb4ef41b8a57f1a8aef2c0dae51025c024c6c213bca6dceb9d35520a"
+  },
+  {
+    "number": "1.23.3",
+    "file": "1.23.3.png",
+    "original": "media/image34.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dafd1bfeb097e87e0049b30e4be3a96ecfc43594da3cd8e5850375bcea8cdf86"
+  },
+  {
+    "number": "1.23.4",
+    "file": "1.23.4.png",
+    "original": "media/image35.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d54b18792758c43359bb84908e004e8adb617c2d485b58b927d07d7b5d39a756"
+  },
+  {
+    "number": "1.24",
+    "file": "1.24.png",
+    "original": "media/image36.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7a47b0f9bb42e3f0924a5c949a5ffb7d11f2ffbf78699d3ec0f3f1bb70b2f957"
+  },
+  {
+    "number": "1.25",
+    "file": "1.25.png",
+    "original": "media/image37.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3f1bb68a5f8adf0f20a8aa5c08164f24924223352ba2a86da77cfedec68c7399"
+  },
+  {
+    "number": "1.26",
+    "file": "1.26.png",
+    "original": "media/image38.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ec435f85d3be0f5bcd6e2c349a9015399badf42315d529248a991bc673eaa4bb"
+  },
+  {
+    "number": "1.27",
+    "file": "1.27.png",
+    "original": "media/image39.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f4bce061c7246401f8b2447f6b6c7f33eb93e83c44b5f92d1f09223dc5db53a9"
+  },
+  {
+    "number": "1.28",
+    "file": "1.28.png",
+    "original": "media/image40.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2505486ad7994deb513006bd30f8cefec0c21bfa1ba6600a7682cf5cf29090a5"
+  },
+  {
+    "number": "1.29",
+    "file": "1.29.png",
+    "original": "media/image41.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a6fe8247e3b32a099b80ffe49e7bc0953efac9ba6678ff6aa80fadf221f85aae"
+  },
+  {
+    "number": "1.30",
+    "file": "1.30.png",
+    "original": "media/image42.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "89a28ef26f5f41e22d2d014fe1eb66e5b87e72dc925d30f0cea6c4822c24423f"
+  },
+  {
+    "number": "1.31.1",
+    "file": "1.31.1.png",
+    "original": "media/image43.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5d8091d81d987f015e5c71ca6947321aba4b6a81e1f5a3c1b9ba1b9ef5234d58"
+  },
+  {
+    "number": "1.31.2",
+    "file": "1.31.2.png",
+    "original": "media/image44.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7b6a4e3bd34c0c1b0018751581432d29e090394c033bf7ae2269492fc983be8f"
+  },
+  {
+    "number": "1.31.3",
+    "file": "1.31.3.png",
+    "original": "media/image45.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "47f471cd18c17d2d27dc108d3895d5e2734c9a57cf67e8884bca6d5d4e5bc4b6"
+  },
+  {
+    "number": "1.31.4",
+    "file": "1.31.4.png",
+    "original": "media/image46.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "62db22f922226a8c662cd078a97b18e782eecb0c036d6b13888746503b6c1230"
+  },
+  {
+    "number": "1.31.5",
+    "file": "1.31.5.png",
+    "original": "media/image47.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d9578a276c9f80726962a3fc3c27d2ef0904f9153d57f158a2ebc31b29a81e45"
+  },
+  {
+    "number": "1.31.6",
+    "file": "1.31.6.png",
+    "original": "media/image48.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "674309e4caaa05d903d90382755e7dc9e91754747aa20514da9bc08d5a337e07"
+  },
+  {
+    "number": "1.32",
+    "file": "1.32.png",
+    "original": "media/image49.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "59c936ab53213b813170a2be7ca92b19252666a7294d3a3ca0e46dcd2f643f89"
+  },
+  {
     "number": "1.33",
     "file": "1.33.png",
     "original": "media/image50.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "c4c643877117bde53a37d6f1b14f762e202d6fea236c733e33bc0b85a49f260d"
+  },
+  {
+    "number": "1.34",
+    "file": "1.34.png",
+    "original": "media/image51.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "87fa04265300f6fac9618d1141d8f68ef73360fad28fa7084708ec2ec91e52df"
+  },
+  {
+    "number": "1.35",
+    "file": "1.35.png",
+    "original": "media/image52.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "602f95eeeb0af0c6bda4b10c49bdd346ad7b01b95d74afaf64eefc7c5c7a2f95"
+  },
+  {
+    "number": "1.36",
+    "file": "1.36.png",
+    "original": "media/image53.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "14afad786f09889df16783132b5f5f818c610b23ac947d44c02fabefdc158c68"
+  },
+  {
+    "number": "1.37",
+    "file": "1.37.png",
+    "original": "media/image54.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "58c9bb05058a5d5b326c57dd31828c58f4cded3163d3de66538aa63ba25f6288"
+  },
+  {
+    "number": "1.38",
+    "file": "1.38.png",
+    "original": "media/image55.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "06d9697904883b2dc59673cdaddb2280047d32253db66f00c647c3780bd67092"
+  },
+  {
+    "number": "1.39",
+    "file": "1.39.png",
+    "original": "media/image56.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8ea9d38e67128304c1dbeaaa60b1d9a0e4190a4768fa157246bc5457974aa56a"
+  },
+  {
+    "number": "1.40",
+    "file": "1.40.png",
+    "original": "media/image57.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "28e88557635d01f80947774f59fb64011bd6dd003acc78e0d202753aa48baea8"
+  },
+  {
+    "number": "1.41",
+    "file": "1.41.png",
+    "original": "media/image58.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "983a4048249e3e21268e3777246956febbd13656b8bccd2f54b12dd92f44894a"
   },
   {
     "number": "2.1",
@@ -105,11 +469,214 @@
     "sha256": "acb75206f97c3eb8089b19eb60b898f18a791fd24c0d55e1875d931ea49682de"
   },
   {
+    "number": "3.4",
+    "file": "3.4.png",
+    "original": "media/image68.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "675ad0c009b6e86b3eb5c653414c6e8066de5a2451823f204d5241327cb00e6f"
+  },
+  {
+    "number": "3.5",
+    "file": "3.5.png",
+    "original": "media/image69.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d2a2d6bbc3a1c3005a18c22ece4a45e7060eac8988078588b675eb201627106f"
+  },
+  {
+    "number": "3.6",
+    "file": "3.6.png",
+    "original": "media/image70.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6f74a2d581e15a9b8544159dddb9f9cd32be746661b0671364341117dbc61414"
+  },
+  {
+    "number": "3.7",
+    "file": "3.7.png",
+    "original": "media/image71.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7225f813edaccaad684aa15642f5d29f924a594f9842a2eede889776d9e87ca9"
+  },
+  {
+    "number": "3.8",
+    "file": "3.8.png",
+    "original": "media/image72.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ad6cdc4d259b1c88dda3b440cc66f66a5313edeca2dc45e2a0ef882e370feadc"
+  },
+  {
+    "number": "3.9",
+    "file": "3.9.png",
+    "original": "media/image73.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "281d5f33bf0cf590e39d9840c18aa14d9f73d9bfb6afcad60f23a71ef30c8536"
+  },
+  {
+    "number": "3.10",
+    "file": "3.10.png",
+    "original": "media/image74.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ec216971357646eb1f9ae94c5ba8a1acb22ee1ea9cd82a287dac782fef3cbbd6"
+  },
+  {
+    "number": "3.11",
+    "file": "3.11.png",
+    "original": "media/image75.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "fad7a9357fe97b7dfdab5fdc7b91523d71469b2b235f03f55eb748d4584b16c5"
+  },
+  {
+    "number": "3.12",
+    "file": "3.12.jpeg",
+    "original": "media/image76.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "80df35ced743c5a60b412a7911b000818a96042ee5e70bab3973456a4aed056d"
+  },
+  {
+    "number": "3.13",
+    "file": "3.13.png",
+    "original": "media/image77.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e544d647767945664719935504e4a03a7ef78dd228c206434b2b563ef299f504"
+  },
+  {
+    "number": "3.14",
+    "file": "3.14.png",
+    "original": "media/image78.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "42a91a3d9147a9d7fe06d9405e3e7c1d7bb606e237806ff8a3c3b7222d5fca1a"
+  },
+  {
+    "number": "3.15",
+    "file": "3.15.png",
+    "original": "media/image79.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ef8a2ee9f2fd3b80ff316f849d483bc031065c9b517e39a9424635924be16deb"
+  },
+  {
+    "number": "3.16",
+    "file": "3.16.png",
+    "original": "media/image80.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a8259a902606e189d7ff9ddc2aa257742ab6685a3c2127fa6590db0f8d218599"
+  },
+  {
+    "number": "3.17",
+    "file": "3.17.png",
+    "original": "media/image81.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "893bd89666263914a8336a2dc33b55317624c218dd5c8504b1a146d41effe63e"
+  },
+  {
+    "number": "3.18",
+    "file": "3.18.png",
+    "original": "media/image82.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1de5de9d110f8caa687c0069d3ad2b1c1037a6cd2dcfcebca6c9244ee9b9a0f5"
+  },
+  {
+    "number": "3.19",
+    "file": "3.19.png",
+    "original": "media/image83.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "302d9eeb68819c2f27cd312885edcedabf991603c809b25773647525b54aa7ee"
+  },
+  {
+    "number": "3.20",
+    "file": "3.20.png",
+    "original": "media/image84.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cb61a548b54165c4d6f77f6c414a946a8ecf1c1ba63f720a959fe8b61a69f8eb"
+  },
+  {
     "number": "3.21",
     "file": "3.21.png",
     "original": "media/image85.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "cf2a42616b2cd257c8d539a1e8f6457bff86d3d434cef15c5ebdd8c8e2a9f44c"
+  },
+  {
+    "number": "3.22",
+    "file": "3.22.png",
+    "original": "media/image86.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a8d6c2c58c621a45a67b81aa7744cefa4dfc915b1d93c4013bff7c91a06d6b64"
+  },
+  {
+    "number": "3.23",
+    "file": "3.23.png",
+    "original": "media/image87.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dd2c741d5a0f2225a3e543bc4f9fde67de314ba541b276a39f7a84e3553a84c5"
+  },
+  {
+    "number": "3.24",
+    "file": "3.24.png",
+    "original": "media/image88.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c29e87e7e449623e6ddc36480acadd8609199532a7079d1c3f0abbed42bcc0c2"
+  },
+  {
+    "number": "3.25",
+    "file": "3.25.png",
+    "original": "media/image89.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "068a19e6eaeb6e469aacb9e94165ccf00a866df15f0e4b5d800e06ff7a00e2e7"
+  },
+  {
+    "number": "3.26",
+    "file": "3.26.jpeg",
+    "original": "media/image90.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d4e76b977b18f850da9140b89205ec5c45a4afff457d6bea60dfc2f3450a2f96"
+  },
+  {
+    "number": "3.27",
+    "file": "3.27.png",
+    "original": "media/image91.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5e4b66959b79d7cb287530785d76226598caa76b27fb9f081cd81946539709ae"
+  },
+  {
+    "number": "3.28",
+    "file": "3.28.jpeg",
+    "original": "media/image92.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4ed82619b8c0e7461c4dfbdf09aa88280f27411de1b194bb2f9b7e943f64c8f3"
+  },
+  {
+    "number": "3.29",
+    "file": "3.29.png",
+    "original": "media/image93.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "26a487b8867f5afebb42bb97cf81b7fff9a59514e30b5d38c58005567fdab46d"
+  },
+  {
+    "number": "3.30",
+    "file": "3.30.jpeg",
+    "original": "media/image94.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "0989c8c33f9dee4e00f6a4a6ac78afcb30e06be12e3b23696059d6c303a05d72"
+  },
+  {
+    "number": "3.31",
+    "file": "3.31.png",
+    "original": "media/image95.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7c701927dbe31828499ec1137f8027ef845a7fdc77ec355ef1d752035503f1a6"
+  },
+  {
+    "number": "3.32",
+    "file": "3.32.jpeg",
+    "original": "media/image96.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f0a4760c4fafc3c2058165430c15446176936c60bddae56bd29c315486cd2c3f"
+  },
+  {
+    "number": "3.33",
+    "file": "3.33.png",
+    "original": "media/image97.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "732ecde1affa4b04009015a018b1a828eafa45c67f7cfbd8a0d8058636ac06d1"
   },
   {
     "number": "3.34",
@@ -124,6 +691,76 @@
     "original": "media/image99.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "187c1e9bd9f8cab28c76ede043eee214195597eeda75d65a7c49332732b77af7"
+  },
+  {
+    "number": "3.36",
+    "file": "3.36.png",
+    "original": "media/image100.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f3237aeb56d10dc6cbedaf35dbcda6c70c1e3104882307c267c4f2dcfd893a67"
+  },
+  {
+    "number": "3.37",
+    "file": "3.37.png",
+    "original": "media/image101.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "578b63662605481f304c60c9e7844067f222b8d4bf278454891df7bf9d134dc2"
+  },
+  {
+    "number": "3.38",
+    "file": "3.38.png",
+    "original": "media/image102.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cc31f11bc8d1710f284bc6b3bb82a0e4fe2265b1edb7a91b8a77fe54b77dbed6"
+  },
+  {
+    "number": "3.39",
+    "file": "3.39.jpeg",
+    "original": "media/image103.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dfb3ec0395aae59363ff07ca1d42c6eb0e00050aa4aec4eeef89ffe1769268f5"
+  },
+  {
+    "number": "3.40",
+    "file": "3.40.jpeg",
+    "original": "media/image104.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a69283ac68d9ed2416980f241ff1fa9275501cf7b21da0dce7a68eaa69c16004"
+  },
+  {
+    "number": "3.41",
+    "file": "3.41.png",
+    "original": "media/image105.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9f7fe7672a9d60bfb14040c586be15e9aa17f76d960e2e52f5bc2de201bb4d6e"
+  },
+  {
+    "number": "3.42",
+    "file": "3.42.png",
+    "original": "media/image106.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8c28e8c56b5ad1c0da793d6552fef0ce1d7f81f5db49390910baa9b133a17e54"
+  },
+  {
+    "number": "3.43",
+    "file": "3.43.png",
+    "original": "media/image107.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "af02928c28b783556a8d7079cdff3f7c3d856e933c358f744de62e3461319944"
+  },
+  {
+    "number": "3.44",
+    "file": "3.44.png",
+    "original": "media/image108.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "79b85720e4fe60bf88b1576ec1a7a7839ff19081eec85ae87cf858339cf73def"
+  },
+  {
+    "number": "3.45",
+    "file": "3.45.png",
+    "original": "media/image109.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a2e87f883887007930ed7bf6aa2221c1f957da558c36110dd2711693d0d2f6a5"
   },
   {
     "number": "4.1",
@@ -168,6 +805,146 @@
     "sha256": "427014d635ebcccbae850050e60ceeaa4d3c1371683d93b0a8864e1afd2af722"
   },
   {
+    "number": "4.7",
+    "file": "4.7.jpeg",
+    "original": "media/image116.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6a3bdc17b47b02c3e2fa842e010d2e767b8d563d11548aabaa8a933257c06c07"
+  },
+  {
+    "number": "4.8",
+    "file": "4.8.jpeg",
+    "original": "media/image117.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f798349220a3bd7dd0c370f2bad6ca691f265cd1f58cbbcecbb1ac886c8bdeac"
+  },
+  {
+    "number": "4.9",
+    "file": "4.9.png",
+    "original": "media/image118.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "36c08e0aea78cec7ec205b8705b3f7f9629300c085ad0b21ab3d15d7141512e1"
+  },
+  {
+    "number": "4.10",
+    "file": "4.10.png",
+    "original": "media/image119.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "94c3a69017936f54801ed421f4ccba7046a020970c9d139bbd71d51b6db64479"
+  },
+  {
+    "number": "4.11",
+    "file": "4.11.png",
+    "original": "media/image120.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e3cd29a678576ebeb525870a5c01e1cc6c8b3a082e62fdde91877482c81fbe6e"
+  },
+  {
+    "number": "4.12",
+    "file": "4.12.png",
+    "original": "media/image121.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "970d14b3df8d8f4de11e0c911e8bd89fb9bccab0d8b3ed969000e5ecb706d690"
+  },
+  {
+    "number": "4.13",
+    "file": "4.13.png",
+    "original": "media/image122.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "259909423153a6b8dceae700d83d611d94a398430aaa9870a1e7d83f502ae723"
+  },
+  {
+    "number": "4.14",
+    "file": "4.14.png",
+    "original": "media/image123.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cffc00c525c3713e305a11834146cb5c593fa058f4012a2da3c6a0b90c003636"
+  },
+  {
+    "number": "4.15",
+    "file": "4.15.png",
+    "original": "media/image124.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2d48414452f8acd27db45c6d68dfe4e11a61947e3bf847b236cb6d73596904d5"
+  },
+  {
+    "number": "4.16",
+    "file": "4.16.jpeg",
+    "original": "media/image125.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "802ea2f4212f85d40dd6f23c932ac6d78508dc5c2e4838568c389820a7c34f95"
+  },
+  {
+    "number": "4.17",
+    "file": "4.17.png",
+    "original": "media/image126.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "bce0e6d3cbae07d1a946bb7e2fb35bdd65c3564e9c14c6785e58c3286f9741ec"
+  },
+  {
+    "number": "4.18",
+    "file": "4.18.png",
+    "original": "media/image127.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ea423cb836181ad96cbcdc98ac10b19662d50f18df4c9c5dd0ad5b119f8b6e41"
+  },
+  {
+    "number": "4.19",
+    "file": "4.19.png",
+    "original": "media/image128.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "81fb7b4b626cf82adf94cdf03a1c606b7dd7a06d12aca028517d963440f09f2c"
+  },
+  {
+    "number": "4.20.1",
+    "file": "4.20.1.jpeg",
+    "original": "media/image129.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "41ba69a618135aad0b0f323d8e9a2859430d7061501da3826e20793776266351"
+  },
+  {
+    "number": "4.20.2",
+    "file": "4.20.2.jpeg",
+    "original": "media/image130.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b0d80a18ecd133daf3afa49c4fda03588d97460279dd2cc94f443ce455bd5009"
+  },
+  {
+    "number": "4.20.3",
+    "file": "4.20.3.jpeg",
+    "original": "media/image131.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7ca04ae6cee8ee33677c1f918cbe8db116f3fa5dc71e979ec1a8a8e9f9cc105c"
+  },
+  {
+    "number": "4.21",
+    "file": "4.21.png",
+    "original": "media/image132.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c7474e370a0fbf168d4f72a5990c0b8693ad023af20e7eb53286ae5e8822f703"
+  },
+  {
+    "number": "4.22",
+    "file": "4.22.png",
+    "original": "media/image133.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "911996d15413062bfbd45000dabe7f4d6b6671ac321d4780a7616f6454b5fd8e"
+  },
+  {
+    "number": "4.23",
+    "file": "4.23.png",
+    "original": "media/image134.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "16b9e48b869836d5f33253657cc55ce435a7feb24d7942dfd71e0ac837e16166"
+  },
+  {
+    "number": "4.24",
+    "file": "4.24.png",
+    "original": "media/image135.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "0703200e497fffc1436e248f735401f4f4b855f7930eacac1c8a85a35871d0ae"
+  },
+  {
     "number": "5.1",
     "file": "5.1.png",
     "original": "media/image136.png",
@@ -208,6 +985,1028 @@
     "original": "media/image141.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "afd3ec6bf9d0980012662298ef12cf1e52164af325bc7b076f93ddebad7c1ccc"
+  },
+  {
+    "number": "5.7.1",
+    "file": "5.7.1.png",
+    "original": "media/image142.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b1ee0892f18f161a8f18c2dab47bc297dbd2dc8cecba082be1a380d0dc66e8f3"
+  },
+  {
+    "number": "5.7.2",
+    "file": "5.7.2.png",
+    "original": "media/image143.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d1800873954645238452a5aaf263fd4ef1378b3474135de32ce5a4e1535d58c0"
+  },
+  {
+    "number": "5.8",
+    "file": "5.8.png",
+    "original": "media/image144.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e6050a14da64ce2c888bea41b28d752e8311af04e0f846a9e9027972df09bbe2"
+  },
+  {
+    "number": "5.9",
+    "file": "5.9.png",
+    "original": "media/image145.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "adc3822413fc67cfe3aca39bc3d620f1462560b1fd7cb009e7700f6e3ee788d5"
+  },
+  {
+    "number": "5.10.1",
+    "file": "5.10.1.png",
+    "original": "media/image146.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e8761aadb0504da8af45949ac67efe89b35460f18129ce1e30f3c52b370f8cbd"
+  },
+  {
+    "number": "5.10.2",
+    "file": "5.10.2.png",
+    "original": "media/image147.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9bd5103b6838f46ed83c7cc3eec94e313e7f505ced7c3fbeead2c2c85439b322"
+  },
+  {
+    "number": "5.10.3",
+    "file": "5.10.3.png",
+    "original": "media/image148.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2d9368c5590a826aa991a6834892781482301db0ceda760773e7399096e8c22c"
+  },
+  {
+    "number": "5.10.4",
+    "file": "5.10.4.png",
+    "original": "media/image149.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "966c74bb0cec651485f866250c3a6406cb062df2b80f2762c799b883006c41dd"
+  },
+  {
+    "number": "5.11",
+    "file": "5.11.png",
+    "original": "media/image150.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "34e1844c6210e9e6c994fdb2bc27220a03a546bbebfb61c38e03261657b34142"
+  },
+  {
+    "number": "5.12",
+    "file": "5.12.png",
+    "original": "media/image151.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "10cffb88ca122972be1650f4ccf40981401c0e2ecc65a82175a1dd10d93e8964"
+  },
+  {
+    "number": "5.13",
+    "file": "5.13.png",
+    "original": "media/image152.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d6fc80a5e14f1daf1cefdf877ec09352a3722276ef18a939175048206a42c8a2"
+  },
+  {
+    "number": "5.14",
+    "file": "5.14.png",
+    "original": "media/image153.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7a6bcf13caa1930b530ff4389dbc2a40091b20a8fa711f8562a22e025b1dd2ae"
+  },
+  {
+    "number": "5.15",
+    "file": "5.15.png",
+    "original": "media/image154.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "23459563ac272fd684699868e391fc4bbc8659f4795bb0695b8f8eade99c7250"
+  },
+  {
+    "number": "5.16",
+    "file": "5.16.png",
+    "original": "media/image155.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a25f72972a85898041a2543a0e2f007a0fea7551cbefde3533349d2f5332a372"
+  },
+  {
+    "number": "5.17.1",
+    "file": "5.17.1.png",
+    "original": "media/image156.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a186f912ae8d88ca7365f89b83a0e87f207786ae670839b3c106cc80f996404f"
+  },
+  {
+    "number": "5.17.2",
+    "file": "5.17.2.png",
+    "original": "media/image157.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e9bf846d1c13765304fabfaa7bef30dcac267b7ae4794549ed555f55b376cad6"
+  },
+  {
+    "number": "5.18",
+    "file": "5.18.png",
+    "original": "media/image158.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "fe31396578e688c21665e9dcf82c69672a058bca7289895966414db4e2c23c59"
+  },
+  {
+    "number": "5.19.1",
+    "file": "5.19.1.png",
+    "original": "media/image159.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3b51421bb096602362b4e33a1989c3768747431e1a2c4ade3ecddf3e47d16e17"
+  },
+  {
+    "number": "5.19.2",
+    "file": "5.19.2.jpeg",
+    "original": "media/image160.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6c457680513d481ab0b9cd5bcdb48f3c48b5fd6a622557a56222312272379a6c"
+  },
+  {
+    "number": "5.19.3",
+    "file": "5.19.3.png",
+    "original": "media/image161.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e2f254802d65b75357f9d727ac8b24cfb2a5a0b2ee43c344c976407f36b628cf"
+  },
+  {
+    "number": "5.20.1",
+    "file": "5.20.1.png",
+    "original": "media/image162.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b8992e66d86f8ff6cee85b7f03c60916292079ae121e7e733f54d890386aa86b"
+  },
+  {
+    "number": "5.20.2",
+    "file": "5.20.2.png",
+    "original": "media/image163.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a7de4140a83a048b9a3df4510a48dd1d86798e88567e7e55a1b130479dfd49e3"
+  },
+  {
+    "number": "5.21.1",
+    "file": "5.21.1.png",
+    "original": "media/image164.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d3c1f7f70dc0e0f555fa6b5df225af78ba0c15f88945bba9955f36dac0939f00"
+  },
+  {
+    "number": "5.21.2",
+    "file": "5.21.2.png",
+    "original": "media/image165.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "179af64ca2c8bbcc67e33f0e3e94120aeea328f018f79f9a43b8f688999800b5"
+  },
+  {
+    "number": "5.22",
+    "file": "5.22.png",
+    "original": "media/image166.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e6e465e80b249b232e20e85243c456adb2f90d057d84c53e8a9fde0eaceb3bac"
+  },
+  {
+    "number": "5.23",
+    "file": "5.23.png",
+    "original": "media/image167.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "488e3ee30b01aaa4c10c7316bb3dcbfdf577a8cf106eb95dec032b4f0c7d362a"
+  },
+  {
+    "number": "5.24",
+    "file": "5.24.jpeg",
+    "original": "media/image168.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d8b363b4743aa69b7e6ce3f71e5e78541d971b411b0f6b64d570487154223632"
+  },
+  {
+    "number": "5.25",
+    "file": "5.25.jpeg",
+    "original": "media/image169.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4939a6b5e779ca7b2dd0b02d506ea57e4ae2d5dc9eed78a1ff709c778a5f712b"
+  },
+  {
+    "number": "5.26",
+    "file": "5.26.jpeg",
+    "original": "media/image170.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "07a1932feeadab86b9c13b1a3119f489de9079ea036356b66d50c0492c0133c0"
+  },
+  {
+    "number": "5.27.1",
+    "file": "5.27.1.png",
+    "original": "media/image171.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c4b491c183e96491f2a57af4c76f652a4d9fb57327030bbc16501aa6f332000d"
+  },
+  {
+    "number": "5.27.2",
+    "file": "5.27.2.png",
+    "original": "media/image172.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "69114bc89e0372b973ebf2ac2f919a639fa57201664e162ac95e40f241548789"
+  },
+  {
+    "number": "5.28",
+    "file": "5.28.jpeg",
+    "original": "media/image173.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "90c400ad0ca044b1290df915ba3d0c72fb9cd71230ac38a175333359c658036b"
+  },
+  {
+    "number": "5.29",
+    "file": "5.29.png",
+    "original": "media/image174.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "18f14e1f8411578798032a359e4537f06608037e7528bc4142c3488d4833c000"
+  },
+  {
+    "number": "5.30",
+    "file": "5.30.png",
+    "original": "media/image175.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4f9e09625882b847e3d2a2505085c7b0032228c4c73f4e92d1171ba04b1606a4"
+  },
+  {
+    "number": "5.31.1",
+    "file": "5.31.1.png",
+    "original": "media/image176.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f7391760f3319b436e9031532b16431e477645cc8d5acd6e983848c45fedddfc"
+  },
+  {
+    "number": "5.31.2",
+    "file": "5.31.2.png",
+    "original": "media/image177.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dc56cbef522275683d97fad2cdd15a806ba4f1bdcf4ee0008424a50daa073f9b"
+  },
+  {
+    "number": "5.31.3",
+    "file": "5.31.3.png",
+    "original": "media/image178.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9ef4a78aa2283c24d206ab1cc71846d12e0470341746e33eb29a45fc32a2feb0"
+  },
+  {
+    "number": "5.32.1",
+    "file": "5.32.1.png",
+    "original": "media/image179.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "54eba08e5d626dc4f311d3823c8caf6017335feed72cb4058bc7c0ded4e6855c"
+  },
+  {
+    "number": "5.32.2",
+    "file": "5.32.2.png",
+    "original": "media/image180.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1b5b4787e8ff843f0cd3a691712386d61f31b025cdf152f5d331bc02a2f97d42"
+  },
+  {
+    "number": "5.32.3",
+    "file": "5.32.3.png",
+    "original": "media/image181.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "de48a3dcb83e9317b86d71b0a673a7708ecfb2d088419b94db5842db65473ddb"
+  },
+  {
+    "number": "5.33",
+    "file": "5.33.png",
+    "original": "media/image182.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "81de71ebc7d730d00dbc9f8c6d44ff17f4ddc6a6030e2a6c37b40f0e6fab8619"
+  },
+  {
+    "number": "5.34",
+    "file": "5.34.png",
+    "original": "media/image183.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f81e5bc44dfe8f6f781218760cc1b5b85bad68294bd05352730104c73b5c5e8d"
+  },
+  {
+    "number": "5.35",
+    "file": "5.35.png",
+    "original": "media/image184.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c41638da583f749a082600f4b1ea04b0abcd508d2aefd30153751423e7368de9"
+  },
+  {
+    "number": "5.36",
+    "file": "5.36.png",
+    "original": "media/image185.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2a4bdc67fec6385876e3a1a180b5620c524006e602196c51e44223546c0542ce"
+  },
+  {
+    "number": "5.37",
+    "file": "5.37.jpeg",
+    "original": "media/image186.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "91e89b038782c3a2f28d4f12f5d161ca64d140f83e653a4ee2144e4a09fab81b"
+  },
+  {
+    "number": "5.38.1",
+    "file": "5.38.1.png",
+    "original": "media/image187.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2a9e7e7264dc606482e334e1afc3a24cec065a68a9a5d1de536a89cf35e5dd41"
+  },
+  {
+    "number": "5.38.2",
+    "file": "5.38.2.png",
+    "original": "media/image188.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "08f6d63bb4e443f6a619a458358005c71371f5a40d56a28a4a0581b77679103f"
+  },
+  {
+    "number": "5.39",
+    "file": "5.39.jpeg",
+    "original": "media/image189.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c1d056c0c46f64879ad4269ec6b29ea2a69739a9ae2a2fd8dfda5f43fe5dd8da"
+  },
+  {
+    "number": "5.40.1",
+    "file": "5.40.1.png",
+    "original": "media/image190.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "db666800083c4f4966dc6396950a7ea94c47a6edb43e39ad34d1c904bf2e3bb4"
+  },
+  {
+    "number": "5.40.2",
+    "file": "5.40.2.png",
+    "original": "media/image191.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "50782e604d5f8514e9ec9fe6c2dcab46dedf098f2fe9256ceecbe9a84598ee5a"
+  },
+  {
+    "number": "5.41.1",
+    "file": "5.41.1.png",
+    "original": "media/image192.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a2ea6dada3e685c84e9ce95720c6032f998c2d9143cfa5b3e560c77a531e2e86"
+  },
+  {
+    "number": "5.41.2",
+    "file": "5.41.2.png",
+    "original": "media/image193.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c9e29e8d7646d09c8218bff65e3dc49cdf5ca545d77d1827a6308ec0c28e9274"
+  },
+  {
+    "number": "5.42.1",
+    "file": "5.42.1.png",
+    "original": "media/image194.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cc132ada062376b0a9c0ee6d4a7c991f726c7d57010bbd6fc19b12c2b6e37d3d"
+  },
+  {
+    "number": "5.42.2",
+    "file": "5.42.2.png",
+    "original": "media/image195.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "02997d25a9b82cee375d19ef24709ac8afc3c85a788e74b7e380fbb1a18219c9"
+  },
+  {
+    "number": "5.42.3",
+    "file": "5.42.3.jpeg",
+    "original": "media/image196.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ed9789e200e8980b5c94195f9cc9b657e2cf38ba4d449230bc3521bbb4f7f920"
+  },
+  {
+    "number": "5.43",
+    "file": "5.43.png",
+    "original": "media/image197.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c910e132f4a2adffa0416c2ee47e9bb31e627ebf01262e541ea903f8b2a92c53"
+  },
+  {
+    "number": "5.44",
+    "file": "5.44.jpeg",
+    "original": "media/image198.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5e490fb326f673e35556d72f699faed2b7cccdb476bfe3b9baeb016fdd6ceb4a"
+  },
+  {
+    "number": "5.45.1",
+    "file": "5.45.1.png",
+    "original": "media/image199.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2afbbd6ca05c3aaba0f9daebb2794852ee8357c61df593869ebdd3720d1fedb8"
+  },
+  {
+    "number": "5.45.2",
+    "file": "5.45.2.png",
+    "original": "media/image200.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e965628375e75d7466db627d36540beefd2e74f8d08f34a8a239c8a477bf8373"
+  },
+  {
+    "number": "5.46.1",
+    "file": "5.46.1.png",
+    "original": "media/image201.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "512ffb9ac6c8b723c2b7ea925a70b43a36a1d4f56450688a5acba0bf2a887d8f"
+  },
+  {
+    "number": "5.46.2",
+    "file": "5.46.2.png",
+    "original": "media/image202.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "439b0a093950c3621ec9071858844f8a73005f023b77259a8edc9ee675b1490d"
+  },
+  {
+    "number": "5.47.1",
+    "file": "5.47.1.png",
+    "original": "media/image203.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "51fd9b17cc320b7e6f2789ee43e8dd12a09170dbd941c89da066631b91e1b818"
+  },
+  {
+    "number": "5.47.2",
+    "file": "5.47.2.png",
+    "original": "media/image204.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a29b2e41e749488f22771f3562c141d1f14014fa3239c1bb8e9553e2cae5ebc9"
+  },
+  {
+    "number": "5.48",
+    "file": "5.48.png",
+    "original": "media/image205.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d0c10f024bba7c3bd2c590484a56e2057b8dc2207970f9a40a3895c96a19fd2e"
+  },
+  {
+    "number": "5.49",
+    "file": "5.49.png",
+    "original": "media/image206.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "bab6841e8bddc3801d0da79056bf2eca102dad45984cb050b8606c25752fca80"
+  },
+  {
+    "number": "5.50",
+    "file": "5.50.png",
+    "original": "media/image207.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9bd769b09a893cc791a7210e09fbb0d0da6137330b694783446be15459e9e160"
+  },
+  {
+    "number": "5.51",
+    "file": "5.51.png",
+    "original": "media/image208.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "32b438cf9a0cd12df0ca2556dc33328ea26d40492ce2ab8d67697d00d4c3df1b"
+  },
+  {
+    "number": "5.52",
+    "file": "5.52.png",
+    "original": "media/image209.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6dab11a05db542c7a6322ee1e4161204c4077f322278ef03acbc4d51d44db0c8"
+  },
+  {
+    "number": "5.53",
+    "file": "5.53.png",
+    "original": "media/image210.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e615294bf1e8751d6c6f0cdca00406e17eeb80fb12d163b182b70d43f6783191"
+  },
+  {
+    "number": "5.54",
+    "file": "5.54.png",
+    "original": "media/image211.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9fbec9a59c6b25826e569bde110a8780c8827929b513264c420c41466162435c"
+  },
+  {
+    "number": "5.55",
+    "file": "5.55.jpeg",
+    "original": "media/image212.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3822de2b695e3428f3e4886bbf6f5017bdcb5091234110708eb8413716a66a4d"
+  },
+  {
+    "number": "5.56",
+    "file": "5.56.png",
+    "original": "media/image213.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9fa462c89ac991623fdc7e05f2c066982e89b6975a0884136d808aac87817d3c"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57.png",
+    "original": "media/image214.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "fdcd01e110127b86a6997b8dc1c585d96be1099f6ffb493817f109ad51e083f3"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57-2.png",
+    "original": "media/image215.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "425aaa9a5fddcf185e53ee46c7cfad079880873a18c487aa6d604300199232b4"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57-3.png",
+    "original": "media/image216.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7255d5780eb7e786e2bf0cc6e0e83699ac0c857a87518a510ba4a0a189d8203c"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57-4.png",
+    "original": "media/image217.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b90974f0696a73b959a9183816c4b2389e6e20c13c839fb63aa3352ba244479f"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57-5.png",
+    "original": "media/image218.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "300563bc8fdd76d6154cf53c3d7cf6c80ef21d0bc4419bd8c1546ee0353c787a"
+  },
+  {
+    "number": "5.57",
+    "file": "5.57-6.jpeg",
+    "original": "media/image219.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "439ad2889100c216bb498a7d9c11329924cad2f6f6f44dcd7375f5b8c85573ce"
+  },
+  {
+    "number": "5.58",
+    "file": "5.58.png",
+    "original": "media/image220.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a56df0e2617a7f9d74ed0b48c4e26049dbb3a452d2ce4a00f8fad6f7a1aa2f63"
+  },
+  {
+    "number": "5.58",
+    "file": "5.58-2.png",
+    "original": "media/image221.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ef428cb5f2290bd2273ae9ea8ead8dc055a9e5c3fd0d166c6dee13825f0754fe"
+  },
+  {
+    "number": "5.58",
+    "file": "5.58-3.jpeg",
+    "original": "media/image222.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cfc341dba5dc521d0579b1ea7b1dde9f419f72c70858e5b2d7312598da2391f0"
+  },
+  {
+    "number": "5.59",
+    "file": "5.59.png",
+    "original": "media/image223.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9fdbd74374b468f5a81aeb5c263fe46cdd41f44204750ce73ad794f7eb4869c9"
+  },
+  {
+    "number": "5.59",
+    "file": "5.59-2.png",
+    "original": "media/image224.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7f099daf92d8bcc36943f0202d32c78d4a0c9a9662e2790dbcae3699c1428dee"
+  },
+  {
+    "number": "5.59",
+    "file": "5.59-3.png",
+    "original": "media/image225.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a749fb1ff660cff19fdd3981f0e5cbea8fac48132f8e7c350ba92c504e68e603"
+  },
+  {
+    "number": "5.60",
+    "file": "5.60.png",
+    "original": "media/image226.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8cc1ce0146545c1bbbde417e8ea23328b09ba466a60a4237e8abb24b5d65117f"
+  },
+  {
+    "number": "5.60",
+    "file": "5.60-2.png",
+    "original": "media/image227.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2dbdd02ae65fa132d2c008a996608011abe16ff1e326aa781af2ec1b1f17e8e4"
+  },
+  {
+    "number": "5.60",
+    "file": "5.60-3.jpeg",
+    "original": "media/image228.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a5e2c33aadd4f467b48356afe1b1559d40152facbfd03a0afcae1017ddab74cd"
+  },
+  {
+    "number": "5.59",
+    "file": "5.59-4.jpeg",
+    "original": "media/image229.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "87f08b6257ad9cb01958c58a9c7f66a1f58c47c6701a6139e4db108b2f8aad76"
+  },
+  {
+    "number": "5.59",
+    "file": "5.59-5.png",
+    "original": "media/image230.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d868a4890754d76c958fa29c2d8baac7c489ad36868bc6bc22aaf53bdd434b87"
+  },
+  {
+    "number": "5.61",
+    "file": "5.61.png",
+    "original": "media/image231.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8dd3febda084ce187db9f7fb05653aa5642af52d87ef8807da202dc6b17d596f"
+  },
+  {
+    "number": "5.61",
+    "file": "5.61-2.png",
+    "original": "media/image232.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b3ef26b72b826ff854804515393aa0d96ea5a321a3d24f6c9959487a049a712b"
+  },
+  {
+    "number": "5.62",
+    "file": "5.62.png",
+    "original": "media/image233.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c2a63ccd756ae4813d7d4677c7b14ccdd059f2ecf815ff2e1a36d373d442b5c5"
+  },
+  {
+    "number": "5.63",
+    "file": "5.63.png",
+    "original": "media/image234.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3729d06e52fea57f19787dd3c8a879a570e9f7a2fb621587e16e7a41e2a4a25b"
+  },
+  {
+    "number": "5.64.1",
+    "file": "5.64.1.png",
+    "original": "media/image235.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e12497b601739e8d747eb2db0527f59449794d16509737fa40e07c79955bbfdf"
+  },
+  {
+    "number": "5.64.2",
+    "file": "5.64.2.png",
+    "original": "media/image236.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "89a3c9343da975c8050cdc19e49c6aad9f4136fa782c77902db2739371f126d2"
+  },
+  {
+    "number": "5.64.3",
+    "file": "5.64.3.png",
+    "original": "media/image237.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3f8bcbff23a8a152e41d9284c0273d32588a8b09d547afac850cad42dee589f5"
+  },
+  {
+    "number": "5.65.1",
+    "file": "5.65.1.png",
+    "original": "media/image238.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "73af77ead48b40ad591d17f998b4b913fb28d9bfe9c8d4ebb59b909b235758ef"
+  },
+  {
+    "number": "5.65.2",
+    "file": "5.65.2.png",
+    "original": "media/image239.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "92b8a2d5dd232104679782d5937218b2c6ae65a7414aaa1acd1b9ad1f5f3d9b6"
+  },
+  {
+    "number": "5.66",
+    "file": "5.66.png",
+    "original": "media/image240.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cc53aff8299ca42290a270d1f0f999d3faab4141dc623662e5d466309fcf9358"
+  },
+  {
+    "number": "5.66",
+    "file": "5.66-2.png",
+    "original": "media/image241.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7869a2354fde7f5470b930a294da9b236f83031a3cff7f9b236bce2457a4ab87"
+  },
+  {
+    "number": "5.66",
+    "file": "5.66-3.png",
+    "original": "media/image242.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "01f80219005f33a88de62b99c7744d2eb61146e36a63f15095fad4794f209262"
+  },
+  {
+    "number": "5.66",
+    "file": "5.66-4.png",
+    "original": "media/image243.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "83f5da7f99ac24878b57db7c54100ce9663908344261be2b8ff5153f316c61b8"
+  },
+  {
+    "number": "5.66",
+    "file": "5.66-5.png",
+    "original": "media/image244.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "bebd5a904c2cc8854816439708d906d1532ae929d7814bcbd35499b4990f078d"
+  },
+  {
+    "number": "5.67.1",
+    "file": "5.67.1.png",
+    "original": "media/image245.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1d186bbfe57b0b4a1b33b6f33c3b83d713a1d7b82d61fde99f6f78ec399970f4"
+  },
+  {
+    "number": "5.67.2",
+    "file": "5.67.2.png",
+    "original": "media/image246.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3b699284f085fcae682d29de94b37e6a8afc16aeeadbf8e531a206c17e9e9966"
+  },
+  {
+    "number": "5.67.2",
+    "file": "5.67.2-2.png",
+    "original": "media/image247.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c059c5f01bec3284c714851f5e8feac84ed4a565528b7ecdd00e5b5cc2f41fa3"
+  },
+  {
+    "number": "5.67.3",
+    "file": "5.67.3.png",
+    "original": "media/image248.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "973aad7ea00a39b9abe409a47e35239dd7306b75d2c08f1b4bc97de590213f0a"
+  },
+  {
+    "number": "5.67.3",
+    "file": "5.67.3-2.png",
+    "original": "media/image249.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "655b1bd84e5a6dd6923785350cb7d529ff91e62136f46ad746ec98e6c305f102"
+  },
+  {
+    "number": "5.68",
+    "file": "5.68.png",
+    "original": "media/image250.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b7dce46ec9b15b448c1f9aad20a6b68825d72bfebfffaff5ea912264ce1a527a"
+  },
+  {
+    "number": "5.69",
+    "file": "5.69.jpeg",
+    "original": "media/image251.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1b6ee18b69bc5ffb3ae5b12ab93eeb697464d09df45b24705cf071f17eae4c9f"
+  },
+  {
+    "number": "5.70",
+    "file": "5.70.png",
+    "original": "media/image252.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3ba91e3a2a1eaf0bd16174ffc521a1d443a02aeed117f4bc9dc22caa5fabd256"
+  },
+  {
+    "number": "5.71",
+    "file": "5.71.png",
+    "original": "media/image253.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6ac56578186aa1d49f4d748fbb2b9a1f9c51c4aec1d570e32c699f71b2bd13c5"
+  },
+  {
+    "number": "5.72",
+    "file": "5.72.png",
+    "original": "media/image254.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a3200c872477f7a678078837429dc294827116bdf37476c8361c1337b565edb7"
+  },
+  {
+    "number": "5.73",
+    "file": "5.73.png",
+    "original": "media/image255.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c7ff33d1cf21114181722be0265c640e24391d9ac4f02c01d714fbde6265ccc4"
+  },
+  {
+    "number": "5.74",
+    "file": "5.74.jpeg",
+    "original": "media/image256.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6d87d9afb35977938d4dd935261f5f7be00759d9f84f2ca37b45323b462a53fa"
+  },
+  {
+    "number": "5.75",
+    "file": "5.75.jpeg",
+    "original": "media/image257.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4f08d583025c65e76f821e1b7c0a5f2c8839439cdfeec2bcaba26dc6837a0c6a"
+  },
+  {
+    "number": "5.76",
+    "file": "5.76.png",
+    "original": "media/image258.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3d87b99d15380a0c20379baedd2d58cd6e5d2539a9a1964fe4c1052b9c0c9149"
+  },
+  {
+    "number": "5.77",
+    "file": "5.77.png",
+    "original": "media/image259.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "484e57ee6640c31d3c23d2e5b02844272d867acebf80adb742abff53efab381f"
+  },
+  {
+    "number": "5.78",
+    "file": "5.78.jpeg",
+    "original": "media/image260.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1f82212536854887465e1b4d601e5a3bc202f17df7b3f491f854bc3d1f3d499c"
+  },
+  {
+    "number": "5.79.1",
+    "file": "5.79.1.jpeg",
+    "original": "media/image261.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8206a21401b6baa4cd17ed08c14b2c53a1a841b9437cee733233077a15e033e7"
+  },
+  {
+    "number": "5.79.2",
+    "file": "5.79.2.jpeg",
+    "original": "media/image262.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "547eb00084eab71afc8a83ec63cd6e3bc3b9e00bbf79faec3f2c1efa2c39921f"
+  },
+  {
+    "number": "5.80.1",
+    "file": "5.80.1.jpeg",
+    "original": "media/image263.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b1900f4a09cebff858815cebc9813f6d92f40d6907a181acd185b36b5f901dd4"
+  },
+  {
+    "number": "5.80.2",
+    "file": "5.80.2.jpeg",
+    "original": "media/image264.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8ab38d0ee58fe56f4c7dde2922f720b185adde31821c795d2d2f444efef2b056"
+  },
+  {
+    "number": "5.81",
+    "file": "5.81.jpeg",
+    "original": "media/image265.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5fadcaa81d2d1147b844f5dbdc5c9abbd1fcce147de82dd87897dcd0549388d6"
+  },
+  {
+    "number": "5.82.1",
+    "file": "5.82.1.jpeg",
+    "original": "media/image266.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "81a931229d1658ada54555c213815814f4c28b1c916246e23efbfb4f8a18c306"
+  },
+  {
+    "number": "5.82.2",
+    "file": "5.82.2.jpeg",
+    "original": "media/image267.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "aa3c2a1195c22e1178169a1f80ae6f1ad14474fe164fffabde3c5d90ed27c71b"
+  },
+  {
+    "number": "5.83.1",
+    "file": "5.83.1.jpeg",
+    "original": "media/image268.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "43757723724b62b3b5b68b25bdb38405d00077aca9e8a4931e5638cecea2c8cc"
+  },
+  {
+    "number": "5.83.2",
+    "file": "5.83.2.jpeg",
+    "original": "media/image269.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "32db009f18f4a549985f87a36cc02fb8bc28ed7196b98934260c36c92536dbe3"
+  },
+  {
+    "number": "5.84",
+    "file": "5.84.jpeg",
+    "original": "media/image270.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d55c9697096d1c1f29fbb369053d2840b54c9550b50ccb1df84858486174960d"
+  },
+  {
+    "number": "5.85",
+    "file": "5.85.jpeg",
+    "original": "media/image271.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "926e59cdd5def971dc5aee470d060e3e288ee179cb0b3625e569a521fec44ae7"
+  },
+  {
+    "number": "5.86",
+    "file": "5.86.jpeg",
+    "original": "media/image272.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2f29f5041a6aeb340c393f921a376dd234bc9c72128974d3e785a12008e3a512"
+  },
+  {
+    "number": "5.87",
+    "file": "5.87.jpeg",
+    "original": "media/image273.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3eb51315f6df78b5000ae5c138d35f5c26835c81d477487203867b1b57691d49"
+  },
+  {
+    "number": "5.88",
+    "file": "5.88.png",
+    "original": "media/image274.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "bbe60e9a1427af806664e0f30f788359748b53a02239a846922e87bae1941cdb"
+  },
+  {
+    "number": "5.89",
+    "file": "5.89.png",
+    "original": "media/image275.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "48b3e17ed8f330b19c303dff10a3b0f265522d4da30ae093b06002cd7d0b9d5c"
+  },
+  {
+    "number": "5.90",
+    "file": "5.90.png",
+    "original": "media/image276.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d43291749199b0c0ffbcc29c334cb57b62609a62542396adbc2e4f556961160e"
+  },
+  {
+    "number": "5.91",
+    "file": "5.91.png",
+    "original": "media/image277.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "eb51cc8b0f671d99928e934032aca91b04df38edd35484322a68cae5f2fd6211"
+  },
+  {
+    "number": "5.92.1",
+    "file": "5.92.1.png",
+    "original": "media/image278.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f99e58b18ec358183c076ed475b0a6bdb82c95dec3b68fd2ec1342285fef3522"
+  },
+  {
+    "number": "5.92.2",
+    "file": "5.92.2.png",
+    "original": "media/image279.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5ba852c20f6798fa719b612a67e3184083fff4c7691ce263256ca4a9768f891f"
+  },
+  {
+    "number": "5.93.1",
+    "file": "5.93.1.png",
+    "original": "media/image280.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6d6042e59bbf9c0331e9c3160e45d59ce7434d3c0bd596352af1fdb8752ccab7"
+  },
+  {
+    "number": "5.93.2",
+    "file": "5.93.2.png",
+    "original": "media/image281.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e205fef70d90490e00480273f549a09eff983fded4b73b6a37f082a280e3dedf"
+  },
+  {
+    "number": "5.94.1",
+    "file": "5.94.1.png",
+    "original": "media/image282.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a5febe74f437bb38e22bcf87c6e5fc08e769ad6062d6b7043b7db2ca2c88978b"
+  },
+  {
+    "number": "5.94.2",
+    "file": "5.94.2.png",
+    "original": "media/image283.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c2d1dd4180ed9f6ab9a19ba017ea06f503f6d868826d45387cf7d007192d2791"
+  },
+  {
+    "number": "5.95.1",
+    "file": "5.95.1.png",
+    "original": "media/image284.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4ebe4934f249039a3ac2e2a66aab1a1671356af69ed37adadd5d9a1990db5678"
+  },
+  {
+    "number": "5.95.2",
+    "file": "5.95.2.png",
+    "original": "media/image285.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2c23e6cea8baf11b9f6ef3ec9ae6720bf3f54272612e03569b37d08072c0d4a8"
+  },
+  {
+    "number": "5.96.1",
+    "file": "5.96.1.jpeg",
+    "original": "media/image286.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "57371c89f0c3728e3e82a2c58d6284caa9a4426461d6565d64db47992f18d3df"
+  },
+  {
+    "number": "5.96.2",
+    "file": "5.96.2.jpeg",
+    "original": "media/image287.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "581946648b1ba4717845e6d8e11c95197f0ff1e0e0cf46a88e95cfa1cb795c17"
   },
   {
     "number": "6.1",
@@ -252,11 +2051,193 @@
     "sha256": "647c5177062f15c6687c34ed245bd891be71a067f02131316f59ae55be4fbb39"
   },
   {
+    "number": "6.7.1",
+    "file": "6.7.1.png",
+    "original": "media/image294.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a76f0d6e3071fd5ad74115694cf686a75ec187fc921a9192e51112eb852466e8"
+  },
+  {
+    "number": "6.7.2",
+    "file": "6.7.2.png",
+    "original": "media/image295.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "df60b5feda3e4a2e2c033d05aedeb4ad5c992882bdde299ff70a75e9e9a6ac07"
+  },
+  {
+    "number": "6.7.3",
+    "file": "6.7.3.jpeg",
+    "original": "media/image296.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "93ef974f036424805b7e4631b1ccbd356dec21867f8f79982536dd017d86e2cf"
+  },
+  {
+    "number": "6.7.4",
+    "file": "6.7.4.png",
+    "original": "media/image297.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b6406e816bb6695dc792fcc197a98f2b6b16f8f85786672108ef5bf0048ef1ac"
+  },
+  {
+    "number": "6.7.5",
+    "file": "6.7.5.jpeg",
+    "original": "media/image298.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "b9b86bca04236dedb6b13d646f0f5fb3626a1440f028cd95136e4e2bcc9c6436"
+  },
+  {
+    "number": "6.7.6",
+    "file": "6.7.6.jpeg",
+    "original": "media/image299.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "45fa2e5710d09fe6596dff1f832215e318938a5e5ec7c959c898e80d5ca18f94"
+  },
+  {
+    "number": "6.7.7",
+    "file": "6.7.7.jpeg",
+    "original": "media/image300.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "129938418db8132c26c698d149e8d41579ac0631e609ee1d8b1dc929e3e445d6"
+  },
+  {
+    "number": "6.8",
+    "file": "6.8.png",
+    "original": "media/image301.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "0e12d85648df21f90167a7940941c630f9c7cea11b1fea68c103bd294d15b87f"
+  },
+  {
+    "number": "6.9",
+    "file": "6.9.png",
+    "original": "media/image302.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "889040d941e19daf438433e7432912243b5e39db74c6264041bcacb007a0055c"
+  },
+  {
+    "number": "6.10",
+    "file": "6.10.png",
+    "original": "media/image303.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a4d895a9ff2a36604fe69efafc823da385eb61dba846764f6e53f0b63f606137"
+  },
+  {
+    "number": "6.11",
+    "file": "6.11.png",
+    "original": "media/image304.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c10811ece81d4db94e46a74dcda2ce994cb55eabd125cc26b5706a3a82221daa"
+  },
+  {
+    "number": "6.12",
+    "file": "6.12.png",
+    "original": "media/image305.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "edb65f5d3db53c373d8f6eb49837533ab489014c269aa0f6d981b74f58754385"
+  },
+  {
+    "number": "6.13",
+    "file": "6.13.png",
+    "original": "media/image306.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f0f5230644bd8c7db708eabc523dfc18c2f281c9f74f82b829e1f9e6abb6d556"
+  },
+  {
+    "number": "6.14",
+    "file": "6.14.png",
+    "original": "media/image307.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f761c0c97cbd547dc1505f3982d04d1decb873e19f8761b81ec008e4353ab4b9"
+  },
+  {
+    "number": "6.15",
+    "file": "6.15.png",
+    "original": "media/image308.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8f01f218d6f6f0f08c4687adc040112b57ba3904ba962d09a36ccbeeff490863"
+  },
+  {
+    "number": "6.16",
+    "file": "6.16.png",
+    "original": "media/image309.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d6b0877a38e40aaddc653ef6ec5cbf806eb53c2bcf38a9fc0fc4a12a44b9bdd3"
+  },
+  {
+    "number": "6.17",
+    "file": "6.17.png",
+    "original": "media/image310.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1f7a9fa4a685be780401db5389602df6ccb211c70ff321b90225ce9e706993fc"
+  },
+  {
+    "number": "6.18",
+    "file": "6.18.png",
+    "original": "media/image311.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7b335a6a2cbf6c7b2dac7305b49c56aa05c10b4c45a21f88dc36da4c6459997a"
+  },
+  {
+    "number": "6.19",
+    "file": "6.19.png",
+    "original": "media/image312.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "11e28849fff5e437d3d7c26b5911eb4c43fd64b10b0f849b5bcae8503cf03880"
+  },
+  {
+    "number": "6.20",
+    "file": "6.20.png",
+    "original": "media/image313.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cb55b2f609d49c778a457c073fd0e08d7679c9be2a76831a5c870292b045e282"
+  },
+  {
+    "number": "6.21",
+    "file": "6.21.png",
+    "original": "media/image314.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "08d380dadbf4511328d58ca8547894b1e21f7732dca10f0de1c43355d5b45d47"
+  },
+  {
+    "number": "6.22",
+    "file": "6.22.png",
+    "original": "media/image315.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d28d68e80f259f1103f4e07ef2baffd22066dd1acc47c0e934ae6d1b30c6e207"
+  },
+  {
+    "number": "6.23",
+    "file": "6.23.png",
+    "original": "media/image316.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d869eb4a303fb7fb6a9f7bbe2cc4e463778dd077c12a96b31788eba283f0183e"
+  },
+  {
     "number": "7.1.1",
     "file": "7.1.1.png",
     "original": "media/image317.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "b5e48990b5b7e825e09d63ea024005d64a1ec4958cb2bcac7058d502189dcffa"
+  },
+  {
+    "number": "7.1.3",
+    "file": "7.1.3.png",
+    "original": "media/image318.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "06ef43d5835c6959756ec44a253bb4c5bce19eb75676d7a23dfb721e759460e0"
+  },
+  {
+    "number": "7.1.4",
+    "file": "7.1.4.png",
+    "original": "media/image319.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1b5cc01b3d8ee9e6f0f66cc65a5a5951fdd09b0fb316fec3cf7c3a71eda358e7"
+  },
+  {
+    "number": "7.1.2",
+    "file": "7.1.2.png",
+    "original": "media/image320.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "64e7211ca80f331c3e09acb3ac2e6529108837e487d096ac9e7a88eebcf1ac86"
   },
   {
     "number": "7.2.1",
@@ -266,11 +2247,60 @@
     "sha256": "f5a8833a2b7b78f3d47586e7ce731b14334429def303e1f1e65f8c65fcc56c90"
   },
   {
+    "number": "7.2.5",
+    "file": "7.2.5.png",
+    "original": "media/image322.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "76cc5b069b4e0b67df2a4173c63aa01cbe37f6d0e0e445dbe342e92dc32e7f2f"
+  },
+  {
+    "number": "7.2.6",
+    "file": "7.2.6.png",
+    "original": "media/image323.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "35d7ec56120935535955aa857ac2d0bdfb4a09a2c391d4326892066c4d9eb258"
+  },
+  {
+    "number": "7.2.2",
+    "file": "7.2.2.png",
+    "original": "media/image324.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ccac0ae7b611252751b583f8a691904689df044f672a186df2227c86a6952db8"
+  },
+  {
+    "number": "7.2.3",
+    "file": "7.2.3.png",
+    "original": "media/image325.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "888d1a19c23c8064e6dd2bce247b6e45f8b14074b0bc42e8c023b8713f845f96"
+  },
+  {
+    "number": "7.2.4",
+    "file": "7.2.4.png",
+    "original": "media/image326.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7e44d87c4bf9ceaae945a8599cc09196e645c15610f14d3ebf3358c8dcfcaf2e"
+  },
+  {
     "number": "7.3.1",
     "file": "7.3.1.png",
     "original": "media/image327.png",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "9775dbcfe76f81584d2ed1a87a7c339d549ed9b00e1420fc2b326577d8e65efb"
+  },
+  {
+    "number": "7.3.2",
+    "file": "7.3.2.png",
+    "original": "media/image328.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "58be351b8328982ae578d53427ac0d0e577fb89bb537ad3b329412274e54ebfa"
+  },
+  {
+    "number": "7.3.3",
+    "file": "7.3.3.png",
+    "original": "media/image329.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "d9a072ef9c299c18ae7abe5b3ff51cd4c7dbd192a010e03dd7433601b6ae9d01"
   },
   {
     "number": "7.4.1",
@@ -280,6 +2310,167 @@
     "sha256": "90feb86ee1739904dfaa7fbc474b4f861a3c7b331b117546f68f3b70c070063e"
   },
   {
+    "number": "7.4.2",
+    "file": "7.4.2.png",
+    "original": "media/image331.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9688dd8f0e9e63a52f7433ed1b6f5f335613fc0d365cf59899354323c2ee9171"
+  },
+  {
+    "number": "7.2.7",
+    "file": "7.2.7.jpeg",
+    "original": "media/image332.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "98100f5631481b3d900d7b448ddd19ed5f22d96c05774a01c4f126771fa6aeff"
+  },
+  {
+    "number": "7.4.3",
+    "file": "7.4.3.png",
+    "original": "media/image333.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e38bb941c0f9dfc72eff13f9bb9e57643defd70b64217199fb2d4f5833ab2eb7"
+  },
+  {
+    "number": "7.4.4",
+    "file": "7.4.4.png",
+    "original": "media/image334.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7a7cacb61f90bff876ffc5618187c0e36c54d5bec75b26923642bfe347397ab7"
+  },
+  {
+    "number": "7.4.5",
+    "file": "7.4.5.png",
+    "original": "media/image335.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4ed402eb8a6e3aca88df40016c693158ed6d61233f48c836e3fdb8f518e56e50"
+  },
+  {
+    "number": "7.4.6",
+    "file": "7.4.6.png",
+    "original": "media/image336.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "98a9040b8767a4f9d0f8dba85322ba43e2fd5c9d3d340f8c4e8e12232bbba61b"
+  },
+  {
+    "number": "7.4.7",
+    "file": "7.4.7.png",
+    "original": "media/image337.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4ebbd2dfa4f49f6bea36c9574856b6eb8c72c80a8654b45fb29c507aa215f3eb"
+  },
+  {
+    "number": "7.5.1",
+    "file": "7.5.1.png",
+    "original": "media/image338.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9da00b876cc7feca5eb894bc41ea391418e95434e5f626e82e664e8f7f800a16"
+  },
+  {
+    "number": "7.5.2",
+    "file": "7.5.2.png",
+    "original": "media/image339.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "32ab558b4c16cc298191d6a28966d1cfc772b202133ecfa88f30aff3330bd589"
+  },
+  {
+    "number": "7.5.3",
+    "file": "7.5.3.png",
+    "original": "media/image340.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "0628307018b40b0486961b5abe03dc27c863d0bae344db6b136d026aa8144da2"
+  },
+  {
+    "number": "7.5.4",
+    "file": "7.5.4.png",
+    "original": "media/image341.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e2823a9323fea6efc2ad4aa8cf570eaa1b308e3602e9e2b4d1a192dc749703d7"
+  },
+  {
+    "number": "7.5.5",
+    "file": "7.5.5.png",
+    "original": "media/image342.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "44b9ae02d77398b0910dc022a894229ddfa0337d3464d00d421f6a118f149888"
+  },
+  {
+    "number": "7.5.6",
+    "file": "7.5.6.png",
+    "original": "media/image343.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "98ec8c2bae4fda9027d74361199ef5363a37d50fd6fe8dd8c06a7016ac6ed09f"
+  },
+  {
+    "number": "7.5.7",
+    "file": "7.5.7.png",
+    "original": "media/image344.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "bc829ce728c472a52031c4cdf61ae7213b56ab9350dc5d5261c105b7d501ffb9"
+  },
+  {
+    "number": "7.5.8",
+    "file": "7.5.8.jpeg",
+    "original": "media/image345.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "47d8b34c7a63b1bdba996ab1034767f0261505a4132c6d3b8ab5181b9c6159e4"
+  },
+  {
+    "number": "7.5.9",
+    "file": "7.5.9.png",
+    "original": "media/image346.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "567b92881ea30a003295f4ce066a952b12077c0fb0ba1fefce1e08223a49f9da"
+  },
+  {
+    "number": "7.6.1",
+    "file": "7.6.1.png",
+    "original": "media/image347.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "6067629413c4b7ddfe9de5f746abd01eeefed1b61f19869fc4c0ac787d882f9e"
+  },
+  {
+    "number": "7.6.2",
+    "file": "7.6.2.png",
+    "original": "media/image348.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5baea4fb9956708e1276e7ab499431974de006419368a5d9957daead3eab83c3"
+  },
+  {
+    "number": "7.6.3",
+    "file": "7.6.3.png",
+    "original": "media/image349.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "dd0f71d5281f10abddf645522385ccbf70a317b99dc31396a7446d933ec26ac4"
+  },
+  {
+    "number": "7.6.4",
+    "file": "7.6.4.png",
+    "original": "media/image350.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "617e69a291d26864b841e271404def66dbc7b7285e648430c179f6b4a9a79615"
+  },
+  {
+    "number": "7.6.5",
+    "file": "7.6.5.jpeg",
+    "original": "media/image351.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c0f45dae818f0c5bc6af54890581200dcd0448213359b25a8606c808d09ae970"
+  },
+  {
+    "number": "7.6.6",
+    "file": "7.6.6.png",
+    "original": "media/image352.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1c1cbbead18f656fbfc93902a22bc78731a603d28292e5366f8c121c39e705ee"
+  },
+  {
+    "number": "7.6.7",
+    "file": "7.6.7.png",
+    "original": "media/image353.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "7a57412bcd6f91f61fec1a1cbecef0c951d6aee4f0994a4687d68554e5e78bdf"
+  },
+  {
     "number": "7.7",
     "file": "7.7.png",
     "original": "media/image354.png",
@@ -287,10 +2478,248 @@
     "sha256": "6522fd0f3cb6e7a9d3064c9543a77b032c8eb4ba7d6109e61f2e513cc64f5d2b"
   },
   {
+    "number": "7.8",
+    "file": "7.8.png",
+    "original": "media/image355.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5af3b692e54084412663b5e449f4517207a1358853cf6bd408cbd5f6929fb3f2"
+  },
+  {
+    "number": "7.9",
+    "file": "7.9.png",
+    "original": "media/image356.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1599c0246a27a4ac21ad78bf1fdd2b02112579c9866bbbe5c7611af42139ecc0"
+  },
+  {
+    "number": "7.10",
+    "file": "7.10.png",
+    "original": "media/image357.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "378b8d25af8d5d4659bf74e55362e98a54168f04bff6121491811e50f21acbd4"
+  },
+  {
+    "number": "7.11",
+    "file": "7.11.png",
+    "original": "media/image358.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "cd8a2c374c4fbdc7f16e015ee981b8bce7d97020f4e511826de176d0a756b715"
+  },
+  {
+    "number": "7.12",
+    "file": "7.12.png",
+    "original": "media/image359.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "31535b460208a06be84b5b7318c22265f770cf1f3921e9e52a66b7e90de7053a"
+  },
+  {
+    "number": "7.13",
+    "file": "7.13.png",
+    "original": "media/image360.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "e863d429aea53d66ccaab6a5f217190b171cf5433e1b729b56645c207d82b883"
+  },
+  {
+    "number": "7.14",
+    "file": "7.14.png",
+    "original": "media/image361.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "301c6d145bccedd7cc80adf1aabfeff3b2b711e2dc6754eb5d882474c45281d1"
+  },
+  {
+    "number": "7.15",
+    "file": "7.15.png",
+    "original": "media/image362.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4aa6ee6129f552be80e37f32e186bd06fe1b600f9f012a08163dd8f672f2dcb1"
+  },
+  {
+    "number": "7.16",
+    "file": "7.16.png",
+    "original": "media/image363.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3b5f77473acaeac2535d347d3a3411166c6ff3049c6ccbf1438bd2e474b881aa"
+  },
+  {
     "number": "7.17",
     "file": "7.17.jpeg",
     "original": "media/image364.jpeg",
     "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
     "sha256": "7a6685ef81a4364e1f27d0a71165401a134290348aaca3c233f0cb4abc6a1ce0"
+  },
+  {
+    "number": "7.18",
+    "file": "7.18.jpeg",
+    "original": "media/image365.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "2b5dfff88d6a53abff3cbc12cb93566e18d61455cd137e52effc2d2df5e67718"
+  },
+  {
+    "number": "7.19",
+    "file": "7.19.png",
+    "original": "media/image366.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "10dec7f7dda1b6491320b97c45dabbc30585521a0aed455df0c894e650608bd3"
+  },
+  {
+    "number": "7.20",
+    "file": "7.20.jpeg",
+    "original": "media/image367.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "ffa30ca2b00ea22954b7db6df466c062ed25049a3085ea4f9a19dab9087c8d5c"
+  },
+  {
+    "number": "7.21.1",
+    "file": "7.21.1.png",
+    "original": "media/image368.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "a9d167655c6e08c1ae1ae939bd229f474ac2d52b539614a0d248bdb63a90c070"
+  },
+  {
+    "number": "7.21.2",
+    "file": "7.21.2.jpeg",
+    "original": "media/image369.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "774095818acde7d05cabf801c8da4e4d80c58aa17f0a06f5a004c9c57b2a528d"
+  },
+  {
+    "number": "7.21.3",
+    "file": "7.21.3.png",
+    "original": "media/image370.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9fda9189f5d3fc01bf8dbc7d846a831da8daf50d1967db180339798f954fa7ac"
+  },
+  {
+    "number": "7.21.4",
+    "file": "7.21.4.png",
+    "original": "media/image371.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "62a73a57545addad15061be0708d6ffe5d79443d30a2cd8c665ebeda46edbee6"
+  },
+  {
+    "number": "7.21.5",
+    "file": "7.21.5.png",
+    "original": "media/image372.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "21d448b440936cbc7e17bb3fb0f17616449b466029c0b95bd84e3678ec64f492"
+  },
+  {
+    "number": "7.22",
+    "file": "7.22.png",
+    "original": "media/image373.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4145efd285123cf0b491c94918257e2aabf6a7dad5ed522923ac574e28b25ec8"
+  },
+  {
+    "number": "7.23",
+    "file": "7.23.jpeg",
+    "original": "media/image374.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1b1a813bc4c7ed17a7e8d15bd6bfe25f0e80df7b7743434d855c7980fffc4310"
+  },
+  {
+    "number": "7.24",
+    "file": "7.24.jpeg",
+    "original": "media/image375.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "9a0319e109941bf906410b3f2ecaaaff5b20a2897b34ba3b75d92efa1fabd07c"
+  },
+  {
+    "number": "7.25",
+    "file": "7.25.jpeg",
+    "original": "media/image376.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "8368c3c4c7a14d2b0119b6fb560471728f40b7b8124a9343414ab25aa7b2cc91"
+  },
+  {
+    "number": "7.26",
+    "file": "7.26.jpeg",
+    "original": "media/image377.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "c0b030fd2b24d5e531fa6425b84615e8bf7f0b955f3e29b95347e008240d8677"
+  },
+  {
+    "number": "7.27",
+    "file": "7.27.jpeg",
+    "original": "media/image378.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "712249507f9058ba9e6603c4bc7790dad5cada2fa86ef304ae073b5acc6ab854"
+  },
+  {
+    "number": "7.28.1",
+    "file": "7.28.1.png",
+    "original": "media/image379.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "da475d54f96f45bad2e41f055042df6bf978ba67b821ba75154f3ef322f5c62d"
+  },
+  {
+    "number": "7.28.2",
+    "file": "7.28.2.png",
+    "original": "media/image380.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "10c9fe2c7101d943635ab8d8e6ea95f5951d0df986f5e3942386444014896951"
+  },
+  {
+    "number": "7.28.3",
+    "file": "7.28.3.png",
+    "original": "media/image381.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "3a33b4e1164352c154682367d4c2d16488cce13993f0b9fa9d31b8b300e0453c"
+  },
+  {
+    "number": "7.28.4",
+    "file": "7.28.4.png",
+    "original": "media/image382.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "629088759d4b84577f54580db5a91ebf05035ffcb8c5be1e1596b5fe60a056ce"
+  },
+  {
+    "number": "7.29.1",
+    "file": "7.29.1.jpeg",
+    "original": "media/image383.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "5b3ba745bf33c95c01dd535246d87c29f49ca6ab125eefc67aa1ae30abd0a0a5"
+  },
+  {
+    "number": "7.29.2",
+    "file": "7.29.2.jpeg",
+    "original": "media/image384.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f58ed6233b08a3f63d7ce880fd3615ab16ac22a3f218636b2f36b2f922fccfc1"
+  },
+  {
+    "number": "7.29.3",
+    "file": "7.29.3.jpeg",
+    "original": "media/image385.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "06caaf9dd6aa3feaa635e11d6c237fac469afad673a1fe5e96d47306a938e6dc"
+  },
+  {
+    "number": "7.29.4",
+    "file": "7.29.4.jpeg",
+    "original": "media/image386.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "f21f2547341bf488a376386f09d71422297ecb46d06f4a155353be16d342675a"
+  },
+  {
+    "number": "7.29.5",
+    "file": "7.29.5.jpeg",
+    "original": "media/image387.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "72766d132414c2854dbc4db38bc9e037a5582baca5fa285f3da436ed63512d60"
+  },
+  {
+    "number": "7.29.6",
+    "file": "7.29.6.jpeg",
+    "original": "media/image388.jpeg",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "1b39775f6ff86239f296a632de8e633080fe2a42f91b37fad41892f8aa34f3c4"
+  },
+  {
+    "number": "7.30",
+    "file": "7.30.png",
+    "original": "media/image389.png",
+    "source": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "sha256": "4e303285ab7bcbd99686c92d2ff1ae8f820953fb5931d6801025b14e098a7812"
   }
 ]

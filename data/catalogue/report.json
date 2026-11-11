@@ -1,0 +1,30 @@
+{
+  "numbers": 369,
+  "images": 389,
+  "categories": {
+    "1": 58,
+    "2": 6,
+    "3": 45,
+    "4": 26,
+    "5": 132,
+    "6": 29,
+    "7": 73
+  },
+  "missing": [],
+  "unexpected": [],
+  "unmappedImages": [],
+  "source": {
+    "revision": "14.10.2026",
+    "checkedAt": "11.11.2026",
+    "rulesUrl": "https://zakon.rada.gov.ua/laws/show/1306-2001-%D0%BF",
+    "annexUrl": "https://zakon.rada.gov.ua/laws/file/text/141/f89740n2524.docx",
+    "annexSha256": "7d1ebb768c38d6cf741dc8d672ccc61da2c5dd87ea393f0d92465fab69a2821a",
+    "rulesSha256": "36fc69f20ce99e2d1c0ccf285aa6e1ca6b0a95325bf46724383175fc39d6e367",
+    "corrections": {
+      "image52": "Printed 1.3 corrected to 1.35 using rule text",
+      "image149": "Printed 5.10..4 corrected to 5.10.4",
+      "image265": "Printed 5.81.3 reconciled to rule 5.81",
+      "image389": "7.30 is outside the main tables"
+    }
+  }
+}

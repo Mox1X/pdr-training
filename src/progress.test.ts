@@ -1,6 +1,7 @@
 import { afterEach, describe, expect, it, vi } from 'vitest';
-import { emptyProgress, recordAnswer, isLearned, isProblem, loadProgress, STORAGE_KEY } from './progress';
+import { DAY, emptyProgress, recordAnswer, isLearned, isProblem, loadProgress, STORAGE_KEY } from './progress';
 import { createQuiz } from './quiz';
+import previous from '../data/catalogue/explanations.json';
 import { signs } from './data/signs';
 afterEach(() => vi.unstubAllGlobals());
 
@@ -10,13 +11,22 @@ describe('persistent learning', () => {
     p = recordAnswer(p, 'one', '1.1', '1.1');
     expect(recordAnswer(p, 'one', '1.1', '1.2')).toBe(p);
     expect(isLearned(p.signs['1.1'])).toBe(false);
-    p = recordAnswer(p, 'two', '1.1', '1.1');
-    p = recordAnswer(p, 'three', '1.1', '1.1');
+    p = recordAnswer(p, 'two', '1.1', '1.1', Date.now()+DAY);
+    p = recordAnswer(p, 'three', '1.1', '1.1', Date.now()+4*DAY);
+    expect(isLearned(p.signs['1.1'])).toBe(false);
+    p=recordAnswer(p,'scheduled','1.1','1.1',Date.now()+11*DAY+100);
     expect(isLearned(p.signs['1.1'])).toBe(true);
     p = recordAnswer(p, 'four', '1.1', '1.2');
     expect(isLearned(p.signs['1.1'])).toBe(false);
     expect(isProblem(p.signs['1.1'])).toBe(true);
     expect(p.signs['1.1'].confusions['1.2']).toBe(1);
+  });
+  it('preserves every previous catalogue identifier and its saved progress', () => {
+    let progress = emptyProgress();
+    for (const id of Object.keys(previous)) progress = recordAnswer(progress, 'old-session', id, id);
+    vi.stubGlobal('localStorage', { getItem: () => JSON.stringify(progress) });
+    expect(Object.keys(loadProgress().progress.signs).sort()).toEqual(Object.keys(previous).sort());
+    expect(loadProgress().progress.signs['7.30']).toBeUndefined();
   });
   it('counts recurring directional confusions and ignores invalid signs', () => {
     let p = emptyProgress();
@@ -51,9 +61,9 @@ describe('mode selection', () => {
     expect(q.questions.some(q => signs.find(s => s.id === q.signId)?.category !== 'warning')).toBe(true);
   });
   it('uses six signs when a single category is selected and rejects empty pools', () => {
-    const q = createQuiz({ categories: ['plate'] });
+    const q = createQuiz({ categories: ['priority'] });
     expect(q.questions).toHaveLength(6);
-    expect(q.questions.every(q => q.signId.startsWith('7.'))).toBe(true);
+    expect(q.questions.every(q => q.signId.startsWith('2.'))).toBe(true);
     expect(() => createQuiz({ categories: [] })).toThrow();
     expect(() => createQuiz({ mode: 'mistakes' })).toThrow();
   });
@@ -62,19 +72,19 @@ describe('mode selection', () => {
     p = recordAnswer(p, 'one', '2.1', '2.2');
     const q = createQuiz({ mode: 'mistakes', categories: ['warning'], progress: p });
     expect(q.questions.map(q => q.signId)).toEqual(['1.1']);
-    for (const id of ['two', 'three', 'four']) p = recordAnswer(p, id, '1.1', '1.1');
+    for (const [i,day] of [1,2,5,12].entries()) p = recordAnswer(p, 'due'+i, '1.1', '1.1',Date.now()+day*DAY+100);
     expect(() => createQuiz({ mode: 'mistakes', categories: ['warning'], progress: p })).toThrow();
   });
   it('weights problematic signs fourfold and keeps each session unique', () => {
-    const progress = recordAnswer(emptyProgress(), 'one', '1.1', '1.2');
+    const progress = recordAnswer(emptyProgress(), 'one', '2.1', '2.2');
     let state = 123;
     const random = () => { state = (state * 1664525 + 1013904223) >>> 0; return state / 4294967296; };
     let problem = 0, other = 0;
-    for (let i = 0; i < 3000; i++) {
-      const quiz = createQuiz({ progress }, random);
-      problem += Number(quiz.questions[0].signId === '1.1');
-      other += Number(quiz.questions[0].signId === '1.2');
-      expect(new Set(quiz.questions.map(q => q.signId)).size).toBe(10);
+    for (let i = 0; i < 1000; i++) {
+      const quiz = createQuiz({ progress, categories: ['priority'] }, random);
+      problem += Number(quiz.questions[0].signId === '2.1');
+      other += Number(quiz.questions[0].signId === '2.2');
+      expect(new Set(quiz.questions.map(q => q.signId)).size).toBe(6);
     }
     expect(problem / other).toBeGreaterThan(3);
     expect(problem / other).toBeLessThan(5);

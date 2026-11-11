@@ -5,3 +5,5 @@ playwright-report/
 test-results/
 .impeccable/review/
 *.tsbuildinfo
+__pycache__/
+*.pyc

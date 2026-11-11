@@ -1,6 +1,11 @@
+import {answersOf,timesOf,answeredCount,skippedCount} from './quiz';
 import { describe, expect, it } from 'vitest';
 import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
+import inventory from '../data/catalogue/inventory.json';
+import report from '../data/catalogue/report.json';
+import { generateOptions } from './options';
+import { emptyProgress } from './progress';
 import { signs, categories } from './data/signs';
 import { createQuiz, getScore, getSign, quizReducer, shuffle } from './quiz';
 
@@ -9,29 +14,31 @@ function seededRandom(seed: number) {
 }
 
 describe('learning catalogue', () => {
-  it('contains 42 uniquely named signs, with six in each category', () => {
-    expect(signs).toHaveLength(42);
-    expect(new Set(signs.map((s) => s.id)).size).toBe(42);
-    expect(new Set(signs.map((s) => s.name)).size).toBe(42);
-    for (const category of categories) expect(signs.filter((s) => s.category === category.id)).toHaveLength(6);
+  it('covers the independently reviewed official inventory in all seven groups', () => {
+    expect(signs.map(s => s.id).sort()).toEqual(Object.keys(inventory).sort());
+    expect(new Set(signs.map(s => s.id)).size).toBe(signs.length);
+    for (const c of categories) expect(signs.filter(s => s.category === c.id).length).toBeGreaterThan(0);
+    expect(report.missing).toEqual([]);
   });
   it('has real bundled images and three distinct, valid distractors per sign', () => {
     for (const sign of signs) {
       expect(existsSync(`public${sign.image}`)).toBe(true);
-      expect(new Set([sign.id, ...sign.distractorIds]).size).toBe(4);
-      for (const id of sign.distractorIds) expect(getSign(id).name).toBeTruthy();
+      const options=generateOptions(sign,emptyProgress());
+      expect(new Set(options).size).toBe(4);
+      expect(new Set(options.map(getSign).map(s => s.answerLabel)).size).toBe(4);
+      for (const id of options) expect(getSign(id).name).toBeTruthy();
       expect(sign.source).toMatch(/^https:\/\/zakon\.rada\.gov\.ua\/laws\/show\/1306-2001-%D0%BF#n\d+$/);
       expect(sign.explanation.length).toBeGreaterThan(40);
     }
   });
   it('preserves the official source image bytes recorded in the manifest', () => {
     const manifest: { number: string; file: string; sha256: string }[] = JSON.parse(readFileSync('public/signs/sources.json', 'utf8'));
-    expect(manifest).toHaveLength(42);
+    expect(manifest).toHaveLength(report.images);
     for (const entry of manifest) {
-      expect(getSign(entry.number).image).toBe(`/signs/${entry.file}`);
+      expect(getSign(entry.number).images).toContain(`/signs/${entry.file}`);
       expect(createHash('sha256').update(readFileSync(`public/signs/${entry.file}`)).digest('hex')).toBe(entry.sha256);
     }
-  });
+  }, 20000);
 });
 
 describe('quiz sessions', () => {
@@ -40,12 +47,18 @@ describe('quiz sessions', () => {
       const state = createQuiz(seededRandom(seed));
       expect(state.questions).toHaveLength(10);
       expect(new Set(state.questions.map((q) => q.signId)).size).toBe(10);
-      expect(state.answers).toEqual(Array(10).fill(null));
+      expect(answersOf(state)).toEqual(Array(10).fill(null));
       for (const question of state.questions) {
         expect(new Set(question.optionIds).size).toBe(4);
         expect(question.optionIds.filter((id) => id === question.signId)).toHaveLength(1);
       }
     }
+  });
+  it('fixes one valid illustration per question without changing it after answering', () => {
+    const q = createQuiz();
+    for (const question of q.questions) expect(getSign(question.signId).images).toContain(question.image);
+    const answered = quizReducer(q, { type: 'answer', optionId: q.questions[0].signId });
+    expect(answered.questions).toBe(q.questions);
   });
   it('shuffles without mutating its input and produces different sessions', () => {
     const input = [1, 2, 3, 4];
@@ -66,7 +79,7 @@ describe('quiz sessions', () => {
     expect(quizReducer(state, { type: 'answer', optionId: question.optionIds.find((id) => id !== question.signId)! })).toBe(state);
     state = quizReducer(state, { type: 'next' });
     expect(state.index).toBe(1);
-    expect(state.answers[1]).toBeNull();
+    expect(answersOf(state)[1]).toBeNull();
   });
   it.each([0, 5, 10])('finishes with the correct score when %i answers are right', (rightCount) => {
     let state = createQuiz();
